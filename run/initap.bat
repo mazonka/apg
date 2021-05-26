@@ -1,6 +1,6 @@
 set CYG=cyg
 
-set APP=c:\ap21
+set APP=c:\apg
 set MWG=c:\msys64
 set MSCLVARS="c:/Program Files (x86)/Microsoft Visual Studio/2019/Community/VC/Auxiliary/Build/vcvars64.bat"
 
