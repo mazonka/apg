@@ -1,0 +1,1 @@
+%APP%\app\bin\sam.exe %*

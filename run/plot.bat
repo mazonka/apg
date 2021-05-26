@@ -1,0 +1,1 @@
+%APP%\app\gnuplot\bin\wgnuplot.exe %*

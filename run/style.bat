@@ -1,0 +1,1 @@
+%APP%\app\AStyle\AStyle.exe --options=%APP%\app\astyle\ht_style.options %*

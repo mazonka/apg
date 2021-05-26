@@ -1,0 +1,1 @@
+%APP%\pdf2djvu-0.7.14\pdf2djvu.exe -o %~n1.djvu %1
