@@ -5,6 +5,9 @@ set filename=%~n1
 set extension=%~x1
 ::endlocal 
 
+set PATH=%PATH%;c:\apg\run
+
+
 set filen=%filename:~0,-4%
 set exten=%filename:~-4%
 set extt=%exten%%extension%
