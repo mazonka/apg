@@ -3,6 +3,7 @@ set CYG=cyg
 set APP=c:\apg
 set MWG=c:\msys64
 set MSCLVARS="c:/Program Files (x86)/Microsoft Visual Studio/2019/Community/VC/Auxiliary/Build/vcvars64.bat"
+set MSCLVARS="c:/Program Files/Microsoft Visual Studio/2022/Community/VC/Auxiliary/Build/vcvars64.bat"
 
 set PWSH=C:\WINDOWS\System32\WindowsPowerShell\v1.0
 set PATH=%APP%\run;%APP%\svn;%windir%;%windir%\system32;%PWSH%;%APP%\dll;%APP%\app\bin
