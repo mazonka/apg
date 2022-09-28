@@ -1,1 +1,1 @@
-@sh /cygdrive/c/user/oleg/git/e3work/circle/cop/copcc PLAT u %*
+@sh /c/user/oleg/g20/WAMsoft/WAMcl/cop/copwam PLAT u %*

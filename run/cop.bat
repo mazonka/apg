@@ -1,1 +1,1 @@
-@sh /cygdrive/c/user/oleg/git/e3work/circle/cop/copcc %*
+@sh /c/user/oleg/g20/WAMsoft/WAMcl/cop/copwam %*
