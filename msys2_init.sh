@@ -12,7 +12,7 @@ pacman -S --noconfirm tar
 pacman -S --noconfirm lzip
 pacman -S --noconfirm dos2unix
 
-#pacman -S mingw-w64-x86_64-ffmpeg
+#pacman -S --noconfirm mingw-w64-x86_64-ffmpeg
 
 # need for mpir
 # pacman -S mingw-w64-x86_64-yasm
