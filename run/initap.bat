@@ -2,7 +2,7 @@ set CYG=cyg
 
 set APP=c:\apg
 set MWG=c:\msys64
-set CRUN=c:\crun
+set CRUN=c:\ccrun
 
 set MSCLVARS="c:/Program Files (x86)/Microsoft Visual Studio/2019/Community/VC/Auxiliary/Build/vcvars64.bat"
 set MSCLVARS="c:/Program Files/Microsoft Visual Studio/2022/Community/VC/Auxiliary/Build/vcvars64.bat"
