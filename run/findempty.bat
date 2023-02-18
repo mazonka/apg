@@ -1,2 +1,3 @@
 @echo off
-sh %APP%\run\findempty.sh %*
+c:\ccrun\ccrun.exe %APP%\run\findempty.cpp %*
+::sh %APP%\run\findempty.sh %*
