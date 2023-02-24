@@ -29,6 +29,12 @@ void process_name(string name)
 
     if ( !withsp ) return;
 
+    if ( fs::exists(newn) )
+    {
+        cout << "ERROR: file exists [" << newn << "]\n";
+        return;
+    }
+
     fs::rename(name, newn);
 
     cout << "[" << name << "] -> [" << newn << "]\n";
