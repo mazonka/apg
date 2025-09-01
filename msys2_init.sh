@@ -19,6 +19,9 @@ pacman -S --noconfirm dos2unix
 # pacman -S mingw-w64-x86_64-yasm
 
 # full POSIX env in msys2 shell
+# echo $MSYSTEM -> msys
 # pacman -S msys/gcc
-# pacman -S msys/iconv
+# pacman -S msys/libiconv
+# pacman -Qs libiconv
+# pacman -S msys/libiconv-devel
 
