@@ -17,3 +17,8 @@ pacman -S --noconfirm dos2unix
 
 # need for mpir
 # pacman -S mingw-w64-x86_64-yasm
+
+# full POSIX env in msys2 shell
+# pacman -S msys/gcc
+# pacman -S msys/iconv
+
