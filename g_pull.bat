@@ -1,4 +1,4 @@
 git pull
 :: pull hard
-:: xgit -c http.sslVerify=false fetch --all
+:: xgit fetch --all
 :: xgit reset --hard origin/master
